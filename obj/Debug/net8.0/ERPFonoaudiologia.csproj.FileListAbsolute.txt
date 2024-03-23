@@ -28,3 +28,4 @@ C:\Projetos\ERPFonoaudiologia\obj\Debug\net8.0\refint\ERPFonoaudiologia.dll
 C:\Projetos\ERPFonoaudiologia\obj\Debug\net8.0\ERPFonoaudiologia.pdb
 C:\Projetos\ERPFonoaudiologia\obj\Debug\net8.0\ERPFonoaudiologia.genruntimeconfig.cache
 C:\Projetos\ERPFonoaudiologia\obj\Debug\net8.0\ref\ERPFonoaudiologia.dll
+C:\Projetos\ERPFonoaudiologia\obj\Debug\net8.0\ERPFonoaudiologia.sourcelink.json
