@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ERPFonoaudiologia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab6a99199ed92b050cbdab29ead259cf7c5c1e3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+832963a6a339976ae632a5297013aab8215b05d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ERPFonoaudiologia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ERPFonoaudiologia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

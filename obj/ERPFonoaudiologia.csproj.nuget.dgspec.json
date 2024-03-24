@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ERPFonoaudiologia\\ERPFonoaudiologia.csproj": {}
+    "c:\\Projetos\\ERPFonoaudiologia\\ERPFonoaudiologia.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ERPFonoaudiologia\\ERPFonoaudiologia.csproj": {
+    "c:\\Projetos\\ERPFonoaudiologia\\ERPFonoaudiologia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ERPFonoaudiologia\\ERPFonoaudiologia.csproj",
+        "projectUniqueName": "c:\\Projetos\\ERPFonoaudiologia\\ERPFonoaudiologia.csproj",
         "projectName": "ERPFonoaudiologia",
-        "projectPath": "C:\\Projetos\\ERPFonoaudiologia\\ERPFonoaudiologia.csproj",
+        "projectPath": "c:\\Projetos\\ERPFonoaudiologia\\ERPFonoaudiologia.csproj",
         "packagesPath": "C:\\Users\\Dev03\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ERPFonoaudiologia\\obj\\",
+        "outputPath": "c:\\Projetos\\ERPFonoaudiologia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

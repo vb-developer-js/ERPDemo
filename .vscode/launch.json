@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        
+        {
+            "name": "C#: ERPFonoaudiologia [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\ERPFonoaudiologia.csproj"
+        }
+    ]
+}

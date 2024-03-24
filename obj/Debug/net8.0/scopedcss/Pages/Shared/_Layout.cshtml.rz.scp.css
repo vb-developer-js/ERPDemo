@@ -23,6 +23,15 @@ a[b-etexseom3i] {
   border-color: #1861ac;
 }
 
+.navbar-vertical[b-etexseom3i] {
+ position: fixed;
+ width: 15em;
+}
+
+.navbar-collapse[b-etexseom3i] {
+  width: 15em;
+}
+
 .border-top[b-etexseom3i] {
   border-top: 1px solid #e5e5e5;
 }
@@ -45,4 +54,9 @@ button.accept-policy[b-etexseom3i] {
   width: 100%;
   white-space: nowrap;
   line-height: 60px;
+}
+
+.content[b-etexseom3i] {
+  position: relative;
+  margin-left: 15em;
 }
